@@ -1,0 +1,11 @@
+casas
+pedra
+mundo
+folha
+dores
+aguia
+praia
+fruta
+sonho
+plano
+teste
